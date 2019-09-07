@@ -1,0 +1,29 @@
+footer {
+  height: 60px;
+  width: 100%;
+  background: #b8b8b8ef;
+  display: flex;
+  justify-content: center;
+}
+
+#copy {
+  padding: 15px 10px;
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+div
+
+a {
+  display: block;
+  text-indent: -9999px;
+  min-width: 47px;
+  min-height: 40px;
+  background: url('./github.png') no-repeat center;
+  background-size: 40px 40px;
+  margin: 0 10px;
+  border: 0;
+}
