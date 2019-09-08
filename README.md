@@ -1,3 +1,5 @@
+If you want to see the site running just visit [a link]https://urbandict.netlify.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
